@@ -1,6 +1,9 @@
 <!--### Hi there 👋-->
+<img src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif">
+
 
 ### Hi, I'm Angelos 👋🏼👨🏻‍💻
+<!--![alt text](https://github.com/akafounis/akafounis/blob/main/cv_wallpaper.jpg)-->
 
 I'm a graduate Student Technical University of Munich in Germany, pursuing a Master's degree in Computer Science with focus in Computer Vision and Deep Learning. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor degree (Major in Computer Science 💻 and Minor in Mathematics π).
 Being passionate about developing intelligent systems that can change the world.
