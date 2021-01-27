@@ -1,13 +1,16 @@
 <!--### Hi there 👋-->
 <!--<img src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif">-->
 
-![alt text](https://github.com/akafounis/akafounis/blob/main/cv.jpg)
+<p align="center">
+<img src="https://github.com/akafounis/akafounis/blob/main/cv.jpg" width="800" height="400"/>
+</p>
+
 
 ### Hi, I'm Angelos 👋🏼👨🏻‍💻
 
-I'm a graduate Student Technical University of Munich in Germany, pursuing a Master's degree in Computer Science with focus in Computer Vision and Deep Learning. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor degree (Major in Computer Science 💻 and Minor in Mathematics π).
-Being passionate about developing intelligent systems that can change the world.
-I love to learn and contribute in any and every possible way.
+I'm a graduate Student Technical University of Munich in Germany, pursuing a Master's degree in Computer Science with focus in Computer Vision and Deep Learning. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor degree (Major in Computer Science 💻 and Minor in Mathematics).
+I am passionate about developing intelligent systems that can change the world.
+I love to learn 📚.
 
 <!--[![twitter badge](https://img.shields.io/badge/-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aboel_kassem)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
@@ -17,6 +20,7 @@ I love to learn and contribute in any and every possible way.
 [![Whatsapp Badge](https://img.shields.io/badge/-WA-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=201154321101&text=Hi!🖖)
 ![](https://komarev.com/ghpvc/?username=aka&color=brightgreen&style=flat)
 -->
+
 ![githubbadge](https://img.shields.io/github/followers/akafounis?style=social)
 
 
@@ -27,6 +31,14 @@ I love to learn and contribute in any and every possible way.
 - 💬 Ask me about ... Anything :laughing:
 - 👯 Looking for an internship or opportunity in the Data Science Field.
 - 😄 Pronouns: ... He
+
+
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akafounis" alt="akafounis"/> </p> 
+
 
 #### Languages
 
