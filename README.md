@@ -1,14 +1,10 @@
 <!--### Hi there 👋-->
-### Hi, I'm Angelos 👋🏼👨🏻‍💻
-
-<!--
-**akafounis/akafounis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ### Hi, I'm Angelos 👋🏼👨🏻‍💻
 
-I'm a graduate Student [@Technical University of Munich](https://www.tum.de/en/) in Germany, pursuing a Master's degree in Computer Science with focus in Computer Vision and Deep Learning. Being passionate about developing intelligent systems that can change the world.
-I love to learn and contribute in any and every possible way.<br/>
+I'm a graduate Student Technical University of Munich in Germany, pursuing a Master's degree in Computer Science with focus in Computer Vision and Deep Learning. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor degree (Major in Computer Science 💻 and Minor in Mathematics π).
+Being passionate about developing intelligent systems that can change the world.
+I love to learn and contribute in any and every possible way.
 
 <!--[![twitter badge](https://img.shields.io/badge/-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aboel_kassem)
 [![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
