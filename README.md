@@ -1,37 +1,31 @@
 <!--### Hi there 👋-->
 <!--<img src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif">-->
 
+
+### Hi, I'm Angelos 👋🏼👨🏻‍💻
+
+I'm a graduate student at Technical University of Munich in Germany, pursuing a Master's degree in Computer Science with focus on Computer Vision and Machine Learning. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor's degree (Major in Computer Science 💻 and Minor in Mathematics).
+I am passionate about developing intelligent systems that can change the world.
+I love to learn 📚.
+
+
+
 <p align="center">
 <img src="https://github.com/akafounis/akafounis/blob/main/cv.jpg" width="800" height="400"/>
 </p>
 
-
-### Hi, I'm Angelos 👋🏼👨🏻‍💻
-
-I'm a graduate student at Technical University of Munich in Germany, pursuing a Master's degree in Computer Science with focus on Computer Vision and Machine Learning. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor degree (Major in Computer Science 💻 and Minor in Mathematics).
-I am passionate about developing intelligent systems that can change the world.
-I love to learn 📚.
-
-<!--[![twitter badge](https://img.shields.io/badge/-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aboel_kassem)
-[![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
-[![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
-[![twitter badge](https://img.shields.io/badge/-@ab0elkassem-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab0elkassem)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedabdelrahman972@gmail.com)](mailto:mohamedabdelrahman972@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-WA-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=201154321101&text=Hi!🖖)
-![](https://komarev.com/ghpvc/?username=aka&color=brightgreen&style=flat)
--->
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kafounis.a@gmail.com)
 [![dev.to badge](https://img.shields.io/badge/-kafounis-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/akafounis)
 ![githubbadge](https://img.shields.io/github/followers/akafounis?style=social)
 
 
 - :school: I'm currently studying in ... Technical University of Munich
-- ⚡️ I’m currently learning the state-of-the-art Deep Learning methods and Computer Vision 
+- ⚡️ I’m currently learning the state-of-the-art Deep Learning methods and about Computer Vision 
 - 👨‍💻 All of my projects are available  [here](https://github.com/akafounis?tab=repositories)
 - 👯 I’m looking to collaborate on ... any interesting computer vision/deep learning project 
 - 💬 Ask me about ... Anything :laughing:
-- 👯 Looking for an internship or opportunity in the Data Science Field.
-- 😄 Pronouns: ... He
+- 👯 Looking for an internship or opportunity in the Data Science field.
+- 📫 How to reach me: ... vie LinkedIn or Email
 
 
 
