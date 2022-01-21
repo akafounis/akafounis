@@ -4,9 +4,9 @@
 
 ### Hi, I'm Angelos 👋🏼👨🏻‍💻
 
-I'm a graduate student at Technical University of Munich in Germany, pursuing a Master's degree in Computer Science with focus on Computer Vision and Machine Learning. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor's degree (Major in Computer Science 💻 and Minor in Mathematics).
-I am passionate about developing intelligent systems that can change the world.
-I love to learn 📚.
+I'm a graduate student at Technical University of Munich in Germany, pursuing a Master's degree in Computer Science. I graduated from Ludwig-Maximilian University of Munich 🎓 with a Bachelor's degree (Major in Computer Science 💻 and Minor in Mathematics).
+I am passionate about problem solving puzzles and developing software that have purpuses!
+I love to learn 📚!
 
 
 
@@ -20,11 +20,11 @@ I love to learn 📚.
 
 
 - :school: I'm currently studying in ... Technical University of Munich
-- ⚡️ I’m currently learning the state-of-the-art Deep Learning methods and about Computer Vision 
+- ⚡️ I’m currently learning the state-of-the-art Software Engineering technologies  
 - 👨‍💻 All of my projects are available  [here](https://github.com/akafounis?tab=repositories)
-- 👯 I’m looking to collaborate on ... any interesting computer vision/deep learning project 
+- 👯 I’m looking to collaborate on ... any interesting projects
 - 💬 Ask me about ... Anything :laughing:
-- 👯 Looking for an internship or opportunity in the Data Science field.
+- 👯 Looking for an opportunity in the Software Industry.
 - 📫 How to reach me: ... vie LinkedIn or Email
 
 
