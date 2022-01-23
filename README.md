@@ -11,7 +11,7 @@ I love to learn 📚!
 
 
 <p align="center">
-<img src="https://github.com/akafounis/akafounis/blob/main/softwareengineering.jpg" width="800" height="400"/>
+<img src="https://github.com/akafounis/akafounis/blob/main/softwareengineering.jpeg" width="800" height="400"/>
 </p>
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kafounis.a@gmail.com)
